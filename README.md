@@ -1,7 +1,7 @@
 # Getting_and_Cleaning_Data_Course_Project
 Project for Coursera course
 
-The file CodeBook.md explains the variables and structure of the data set. 
+The file CodeBook.md explains the variables and structure of the data set produced by run_analysis.R. 
 
 The file run_analysis.R will do the following:
   1. open and load date files located in UCI HAR Dataset into R
